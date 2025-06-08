@@ -1,0 +1,1 @@
+# SVM-Kernel-based-method-for-Satellite-image-Classification
